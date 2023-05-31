@@ -15,7 +15,7 @@
                 size="mini"
                 icon="el-icon-cloudy"
                 plain
-                @click="goTarget('')"
+                @click="goTarget('https://gitee.com/li-tianbao/newbieboot.git')"
             >
               访问码云
             </el-button>
@@ -23,7 +23,7 @@
                 size="mini"
                 icon="el-icon-cloudy"
                 plain
-                @click="goTarget('')"
+                @click="goTarget('https://github.com/TranLit/newbieboot.git')"
             >
               访问GitHub
             </el-button>
